@@ -1,5 +1,7 @@
-Description source: Leetcode
-Program: Invert a binary tree
+Description source: Leetcode.
+
+Program: Invert a binary tree.
+
 Submission Detail: 68 / 68 test cases passed.
 
 Invert a binary tree.
